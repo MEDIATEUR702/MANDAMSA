@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -23,3 +24,6 @@ npm install
 ## Lancement
 
 npm run dev
+=======
+# MANDAMSA 
+>>>>>>> 4ae3802605280789a871351ea60994d12b6426c2
